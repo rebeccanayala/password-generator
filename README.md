@@ -1,4 +1,4 @@
-# Password Generator 🔑
+# Password generator 🔒
 
 [<img src="password-generator.png" width="400">](https://password-generator-rebecca.vercel.app/)
 
