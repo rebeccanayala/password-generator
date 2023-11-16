@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="password.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>Gerador de senhas</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Gerador de senhas</h1>
+            <label for="lenght">Quantidade de caracteres:</label>
+            <input type="number" id="passwordLength" min="6" max="30" value="6">
+            
+            <div class="items">
+                <label>
+                    <input type="checkbox" id="includeUppercase"> Incluir letras maiúsculas
+                </label>
+                <br>
+                <label>
+                    <input type="checkbox" id="includeLowercase"> Incluir letras minúsculas
+                </label>
+                <br>
+                <label>
+                    <input type="checkbox" id="includeSpecial"> Incluir caracteres especiais
+                </label>
+                <br>
+            </div>
+            <button class="btn" onclick="generatePassword()">Gerar senha</button>
+            <input type="text" id="generatedPassword" readonly>
+    </div>
+    <footer>
+        &copy; created with &hearts; by <a href="https://www.linkedin.com/in/rebeccanayala/">Rebecca Nayala</a>
+    </footer>
+<script src="main.js"></script>
+</body>
+</html>
