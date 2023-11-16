@@ -1,4 +1,4 @@
-# Password Generator
+# Password Generator 🔑
 
 [<img src="print-screen.png" width="400">](https://rebeccanayala.github.io/password-generator/)
 
