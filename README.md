@@ -1,6 +1,6 @@
 # Password Generator 🔑
 
-[<img src="print-screen.png" width="400">](https://password-generator-rebecca.vercel.app/)
+[<img src="password-generator.png" width="400">](https://password-generator-rebecca.vercel.app/)
 
 Small project created to generate random passwords.
 
