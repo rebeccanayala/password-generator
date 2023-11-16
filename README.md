@@ -1,6 +1,6 @@
 # Password Generator
 
-[<img src="password-generator.png" width="400">](https://rebeccanayala.github.io/password-generator/)
+[<img src="print-screen.png" width="400">](https://rebeccanayala.github.io/password-generator/)
 
 Small project created to generate random passwords.
 
